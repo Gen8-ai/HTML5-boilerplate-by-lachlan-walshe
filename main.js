@@ -8,7 +8,7 @@ document.getElementById("ctaRepository").addEventListener("click", function goTo
 }),
 
 document.getElementById("ctaDownload").addEventListener("click", function getProjectZip() {
-    const url = "https://github.com/gen8-ai/html5-boilerplate-project/main.zip/";
+    const url = "https://github.com/Gen8-ai/HTML5-boilerplate-by-lachlan-walshe/archive/refs/heads/main.zip";
     window.open(url, "_self");
     window.focus();
     return true;
