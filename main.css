@@ -1,0 +1,140 @@
+/* reset default style settings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-boxing;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+/* main header styling */
+#main-header {
+    background-color: #ffba2518;
+    color: rgb(148, 90, 37);
+    padding: 2rem;
+    text-align: center;
+}
+
+.logo {
+    width: 108px;
+    height: 96px;
+    margin-top: 3rem;
+    padding: 0;
+}
+
+.title {
+    margin-top: 0.4rem;
+    font-size: 2.2rem;
+}
+
+.slogan {
+    color: rgb(148, 90, 37);
+    padding-top: 1rem;
+}
+
+#navBar {
+    background-color: 0;
+    height: 18px;
+    margin-top: 0;
+    padding-top: 4rem;
+}
+
+.nav-bar {
+    margin-top: 10px;
+}
+
+.nav-link {
+    padding: 0.2rem;
+    margin: 0.9rem 1rem 2rem 0.2rem;
+    color: #ff7300;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.nav-link:hover {
+    color: rgb(250, 230, 55);
+}
+
+#callToAction {
+    background-color: rgba(204, 136, 104, 0);
+    color: rgb(148, 90, 37);
+    margin-top: 0.74rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0.38rem;
+    align-content: center;
+    width: 100%;
+}
+
+#callToAction h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.6rem;
+    align-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+#callToAction p {
+    font-size: 1.2rem;
+    margin-bottom: 0.6rem;
+    align-content: center;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 1rem;
+    width: 100%;
+    text-align: center;
+}
+
+#callToAction button {
+    font-size: 1rem;
+    margin-bottom: 0.34rem;
+    align-content: center;
+}
+
+.cta-button {
+    margin: 2.74rem;
+    padding-top: 0.74rem;
+    padding-bottom: 0.74rem;
+    padding-left: 1.38rem;
+    padding-right: 1.38rem;
+    text-align: center;
+    font-weight: 600;
+    background-color: #ffba25;
+    color: #fff;
+    border: none;
+    border-radius: 0.4rem;
+    font-size: 1.2rem;
+}
+
+.cta-button:hover {
+    background-color: #ff7300;
+    color: #fff;
+    cursor: pointer;
+}
+
+#ctaImage {
+    margin-top: 0.38rem;
+    margin-bottom: .38rem;
+    padding-top: 0.02rem;
+    padding-bottom: 0.74rem;
+    text-align: center;
+}
+
+.cta-image {
+    width: 68%;
+    height: auto;
+}
+
+body {
+    background-color: #ff7f0700;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+}
