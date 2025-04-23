@@ -16,15 +16,15 @@
 ### **Contents of the Project Template**:
 
 ```plaintext
-./Index.html
+./index.html
 ./main.css
-./main.js
+./index.js
 ./LICENCE
 ./public/cta-image.png
 ./public/favicon.png
 ./public/logo.png
-./pages/404.html
-./pages/404.js
+./404.html
+./scripts/404.js
 ```
 
 ---
