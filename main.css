@@ -8,7 +8,7 @@
 
 /* main header styling */
 #main-header {
-    background-color: #ffba2518;
+    background-color: #ffba2500;
     color: rgb(148, 90, 37);
     padding: 2rem;
     text-align: center;
@@ -136,7 +136,7 @@
 }
 
 body {
-    background-color: #7e512700;
+    background-color: #ffba2518;
     color: #00000000;
     margin: 0;
     padding: 0;
