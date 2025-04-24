@@ -117,6 +117,11 @@
     cursor: pointer;
 }
 
+#ctaButton {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
 #ctaImage {
     margin-top: 0.38rem;
     margin-bottom: .38rem;
@@ -131,8 +136,8 @@
 }
 
 body {
-    background-color: #ff7f0700;
-    color: #000;
+    background-color: #7e512700;
+    color: #00000000;
     margin: 0;
     padding: 0;
     font-size: 1.2rem;
